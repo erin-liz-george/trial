@@ -1,0 +1,6 @@
+1. install vs code
+2. install git terminal
+3. sign up in git hub
+4. create a file in any location
+5. from the git terminal cd to that location
+6. perform the steps mentioned in the repository page
